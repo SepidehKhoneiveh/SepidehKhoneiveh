@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SepidehKhoneiveh
 - 👀 I’m interested in Matlab Programming, Psychtoolbox, EEGlab 
 - 🌱 I’m currently learning Pyton
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me s.khoneiveh@uke.de
 
 <!---
